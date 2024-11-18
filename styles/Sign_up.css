@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: black;
+    font-family: 'Poppins', sans-serif, Helvetica;
+}
+
+input {
+    margin-left: 430px;
+    margin-right: 90000px;
+    height: 21px;
+    width: 210px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+#Submit {
+    background-color: blue;
+    color: white;
+    height: 60px;
+    width: 120px;
+    margin-left: 430px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#Submit:hover {
+    background-color: rgb(53, 53, 250);
+}
+
+#Submit:active {
+    background-color: rgb(84, 84, 255);
+}

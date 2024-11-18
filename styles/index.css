@@ -1,0 +1,31 @@
+body {
+    margin-left: 30%;
+    margin-top: 40px;
+    font-family: 'Poppins', sans-serif, Helvetica;
+    background-color: black;
+    color: white;
+}
+
+
+#Login {
+    color: white;
+    text-decoration: none;
+    border: 3px solid rgb(94, 252, 94);
+    background-color: lime;
+    border-radius: 4px;
+    margin-top: 50px;
+    height: 100px;
+    width: 210px;
+    margin-right: 60px;
+}
+
+#Sign_up {
+    color: white;
+    text-decoration: none;
+    border: 2px solid rgb(27, 27, 255);
+    background-color: rgb(5, 5, 189);
+    border-radius: 4px;
+    margin-top: 50px;
+    height: 100px;
+    width: 210px;
+}
